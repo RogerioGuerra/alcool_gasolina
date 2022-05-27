@@ -1,7 +1,7 @@
 # alcool_gasolina
 
 A new Flutter project.
-project made in android studio based on flutter udemy/jamilton damasceno course.
+Project made in android studio based on flutter Udemy/Jamilton Damasceno course.
 
 ## Getting Started
 
